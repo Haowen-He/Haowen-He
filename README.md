@@ -17,6 +17,7 @@
         <li>:honeybee: :heavy_plus_sign: :peach: GA Tech in ATL</li>
         <li>:fish: :heavy_plus_sign: :brain: Studying social behavior evolution in cichlid fishes</li>
         <li>:computer: Developing scalable ML tools for scMultiome analyses</li>
+        <li>:abacus: :heavy_plus_sign: :tennis: Math nerd loves tennis</li>
       </ul>
     </td>
   </tr>
