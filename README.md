@@ -25,7 +25,7 @@
 
 ## What I've been up to :clapper: 
 
-<a href="https://github.com/Haowen-He/https://github.com/Haowen-He/snRNA_Tooth_accReplacement">
+<a href="https://github.com/Haowen-He/snRNA_Tooth_accReplacement">
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=https://github.com/Haowen-He/snRNA_Tooth_accReplacement&theme=solarized-light"/>
 </a>
 
