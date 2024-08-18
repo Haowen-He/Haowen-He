@@ -21,3 +21,24 @@
     </td>
   </tr>
 </table>
+
+## What I've been up to :clapper: 
+
+<a href="https://github.com/Haowen-He/snRNAseq_AcceleratedToothReplacement">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=snRNAseq_AcceleratedToothReplacement&theme=solarized-light"/>
+</a>
+
+## Tools for the single cell Multiomers :microscope: 
+
+<a href="https://github.com/Haowen-He/snRNAseq_AcceleratedToothReplacement">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=snRNAseq_AcceleratedToothReplacement&theme=solarized-light"/>
+</a>
+
+## Nosy about my Github usage?
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haowen-He&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Haowen-He&layout=compact&theme=flag-india"/>
+</a>
