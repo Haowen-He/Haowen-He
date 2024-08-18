@@ -13,7 +13,7 @@
     </td>
     <td width="70%">
       <ul>
-        <li>:computer: :dna: PhD student in Computational Biology and Bioinformatics</li>
+        <li>:computer: ➕ :dna: PhD student in Computational Biology and Bioinformatics</li>
         <li>:honeybee: :peach: GA Tech in ATL</li>
         <li>:fish: Studying behavioral neuroscience and social behavior evolution in in cichlid fishes</li>
         <li>:microscope: Developing scalable analytic tools for automated analyses of single-cell multiome datasets</li>
