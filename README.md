@@ -16,7 +16,7 @@
         <li>:computer: :heavy_plus_sign: :dna: PhD student in Computational Biology and Bioinformatics</li>
         <li>:honeybee: :heavy_plus_sign: :peach: GA Tech in ATL</li>
         <li>:fish: :heavy_plus_sign: :brain: Studying social behavior evolution in cichlid fishes</li>
-        <li>:microscope: :heavy_plus_sign: :brain: Developing scalable ML tools for automated scMultiome analyses</li>
+        <li>:microscope: Developing scalable ML tools for automated scMultiome analyses</li>
       </ul>
     </td>
   </tr>
