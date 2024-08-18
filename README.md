@@ -34,7 +34,7 @@
   <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=snRNAseq_AcceleratedToothReplacement&theme=solarized-light"/>
 </a>
 
-## Nosy about my Github usage?
+## Nosy about my Github usage :mag_right:
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haowen-He&hide=jupyter%20notebook&layout=donut&theme=flag-india"/>
