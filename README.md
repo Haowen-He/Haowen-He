@@ -1,7 +1,7 @@
-# So glad you're here!
+# So glad you're here :wave:
 
 <p align="center">
-  <img src="https://github.com/Haowen-He/Haowen-He/blob/main/Haowen.png" width="500" height="225" />
+  <img src="https://github.com/Haowen-He/Haowen-He/blob/main/Haowen.png" width="500" height="260" />
 </p>
 
 ## The Nitty Gritty
