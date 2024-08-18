@@ -25,14 +25,14 @@
 
 ## What I've been up to :clapper: 
 
-<a href="https://github.com/Haowen-He/snRNA_Tooth_accReplacement">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=https://github.com/Haowen-He/snRNA_Tooth_accReplacement&theme=solarized-light"/>
+<a href="https://github.com/Haowen-He/snRNA-Accelerated-Tooth">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=https://github.com/Haowen-He/snRNA-Accelerated-Tooth&theme=solarized-light"/>
 </a>
 
 ## Tools for the single cell Multiomers :microscope: 
 
-<a href="https://github.com/Haowen-He/snRNAseq_AcceleratedToothReplacement">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=https://github.com/Haowen-He/snRNA_Tooth_accReplacement&theme=solarized-light"/>
+<a href="https://github.com/Haowen-He/snRNA-Accelerated-Tooth">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=https://github.com/Haowen-He/snRNA-Accelerated-Tooth&theme=solarized-light"/>
 </a>
 
 ## Nosy about my Github usage :mag_right:
