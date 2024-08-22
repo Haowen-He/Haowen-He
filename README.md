@@ -25,8 +25,8 @@
 
 ## What I've been up to :clapper: 
 
-<a href="https://github.com/Haowen-He/snRNA-Accelerated-Tooth">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=https://github.com/Haowen-He/snRNA-Accelerated-Tooth&theme=solarized-light"/>
+<a href="https://github.rpi.edu/DataINCITE/AlzApp">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=heh4&repo=https://github.rpi.edu/DataINCITE/AlzApp&theme=solarized-light"/>
 </a>
 
 ## Tools for the single cell Multiomers :microscope: 
