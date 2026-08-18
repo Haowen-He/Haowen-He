@@ -26,7 +26,11 @@
 ## What I've been up to :clapper: 
 
 <a href="https://github.com/Haowen-He/snRNAseq-Analysis-Accelerated-Tooth-Replacement">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=snRNAseq-Analysis-Accelerated-Tooth-Replacement&theme=ambient_gradient"/>
+  <img
+    height="125"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/pin/?username=Haowen-He&repo=snRNAseq-Analysis-Accelerated-Tooth-Replacement&theme=ambient_gradient"
+  />
 </a>
 
 <a href="https://github.com/Haowen-He/snRNAseq-Analysis-Accelerated-Tooth-Replacement">
