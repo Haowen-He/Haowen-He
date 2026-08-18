@@ -45,8 +45,12 @@
 
 ## Nosy about my Github usage :mag_right:
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Haowen-He&layout=donut&theme=flag-india"/>
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img
+    height="200"
+    align="center"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Haowen-He&layout=donut&theme=flag-india"
+  />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Haowen-He&layout=compact&theme=flag-india"/>
