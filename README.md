@@ -25,8 +25,8 @@
 
 ## What I've been up to :clapper: 
 
-<a href="https://github.com/Haowen-He/snRNA-Accelerated-Tooth">
-  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=snRNA-Accelerated-Tooth&theme=ambient_gradient"/>
+<a href="https://github.com/Haowen-He/snRNAseq-Analysis-Accelerated-Tooth-Replacement">
+  <img height=125 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Haowen-He&repo=snRNAseq-Analysis-Accelerated-Tooth-Replacement&theme=ambient_gradient"/>
 </a>
 
 ## Tools for the single cell Multiomers :microscope: 
